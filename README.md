@@ -1,6 +1,5 @@
 # Multimodal Phishing Detection with Late-Fusion Architecture
 
-
 ## 📌 Project Overview
 Modern phishing attacks increasingly utilize "visual spoofing"—such as rendering fake login forms on compromised legitimate domains—to evade traditional, text-centric security filters. This project addresses the critical need for a multidimensional security system by developing a **Modular Late-Fusion Ensemble** that evaluates a webpage's URL, text, and visual layout simultaneously.
 
