@@ -1,0 +1,19 @@
+# Ignore raw image datasets and HTML
+phish360/
+TrainVal/
+Test/
+
+# Ignore heavy data files
+*.parquet
+*.csv
+
+# Ignore Embeddings and Saved Machine Learning Models
+*.npy
+*.pt
+*.pth
+*.pkl
+*.joblib
+*.h5
+
+# Ignore Jupyter checkpoints
+.ipynb_checkpoints/
