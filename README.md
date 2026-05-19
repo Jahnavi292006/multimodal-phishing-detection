@@ -1,10 +1,5 @@
 # Multimodal Phishing Detection with Late-Fusion Architecture
 
-![Python](https://img.shields.io/badge/Python-3.8%2B-blue)
-![PyTorch](https://img.shields.io/badge/PyTorch-Deep%20Learning-EE4C2C)
-![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-Machine%20Learning-F7931E)
-![Status](https://img.shields.io/badge/Status-Completed-success)
-
 ## 📌 Project Overview
 Modern phishing attacks increasingly utilize "visual spoofing"—such as rendering fake login forms on compromised legitimate domains—to evade traditional, text-centric security filters. This project addresses the critical need for a multidimensional security system by developing a **Modular Late-Fusion Ensemble** that evaluates a webpage's URL, text, and visual layout simultaneously.
 
