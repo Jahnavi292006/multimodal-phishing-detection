@@ -1,5 +1,6 @@
 # Multimodal Phishing Detection with Late-Fusion Architecture
 
+
 ## 📌 Project Overview
 Modern phishing attacks increasingly utilize "visual spoofing"—such as rendering fake login forms on compromised legitimate domains—to evade traditional, text-centric security filters. This project addresses the critical need for a multidimensional security system by developing a **Modular Late-Fusion Ensemble** that evaluates a webpage's URL, text, and visual layout simultaneously.
 
@@ -17,9 +18,11 @@ Our pipeline mimics human threat evaluation through three distinct modalities:
 ## 📂 Repository Structure
 * `Final_Phish360_Master_Pipeline_v4.ipynb`: The main, end-to-end execution pipeline (Data Loading -> Feature Extraction -> Training -> Evaluation -> Visualization).
 * `Phish360 EDA PQ.pdf`: Exploratory Data Analysis documentation.
-* *(Note: The Phish360 dataset and heavy model embeddings are not hosted in this repo due to size constraints. See setup instructions below).*
+* *(Note: The raw Phish360 dataset and heavy model embeddings are not hosted in this repo due to GitHub size constraints. See setup instructions below).*
 
-## ⚙️ Installation & Setup Instruction
+---
+
+## ⚙️ Installation & Setup Instructions
 
 **1. Clone the repository:**
 ```bash
